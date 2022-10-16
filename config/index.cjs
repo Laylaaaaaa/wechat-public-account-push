@@ -35,9 +35,9 @@ const USER_CONFIG = {
         {
           type: '生日', name: '宝宝', year: '1995', date: '12-30',
         },
-        {
-          type: '节日', name: '在一起', year: '2019', date: '08-09',
-        },
+//         {
+//           type: '节日', name: '在一起', year: '2019', date: '08-09',
+//         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
