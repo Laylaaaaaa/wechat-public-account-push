@@ -23,13 +23,21 @@ const USER_CONFIG = {
       ],
     },
     
-    // {
-    //   name: '妈妈',
-    //   id: 'oelhR5x5lAmEEnKHl_qqe83nzAFs',
-    //   useTemplateId: '75BaCz8MGol2WS4qAIEM__9r_xkdx6hXVPfPk37sVPw',
-    //   horoscopeDate: '05-27',
-    //   city: '长春',
-    // },
+    {
+      name: '妈妈',
+      id: 'oelhR5y1jYWqJPfwNorUgBPzU-Wg',
+      useTemplateId: '75BaCz8MGol2WS4qAIEM__9r_xkdx6hXVPfPk37sVPw',
+      horoscopeDate: '05-27',
+      city: '长春',
+    },
+
+    {
+      name: '妈妈',
+      id: 'oelhR584oVzGzjb1WbUPdZsSHQ-4',
+      useTemplateId: '75BaCz8MGol2WS4qAIEM__9r_xkdx6hXVPfPk37sVPw',
+      horoscopeDate: '05-27',
+      city: '长春',
+    },
 
     // {
     //   name: '爸爸',
