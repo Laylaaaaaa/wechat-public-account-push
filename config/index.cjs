@@ -28,23 +28,23 @@ const USER_CONFIG = {
       horoscopeDate: '05-13',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '哥哥', year: '1992', date: '05-13',
-        },
+//         {
+//           type: '*生日', name: '哥哥', year: '1992', date: '05-13',
+//         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '哥哥', year: '1992', date: '05-13',
+        },
         {
           type: '生日', name: '宝宝', year: '1995', date: '12-30',
         },
-//         {
-//           type: '节日', name: '在一起', year: '2019', date: '08-09',
-//         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2019-12-08' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+//         { keyword: 'marry_day', date: '2019-12-08' },
       ],
     },
   ],
