@@ -39,13 +39,13 @@ const USER_CONFIG = {
       city: '长春',
     },
 
-    // {
-    //   name: '爸爸',
-    //   id: 'oelhR5x5lAmEEnKHl_qqe83nzAFs',
-    //   useTemplateId: 'yasFbW5ZV9-EGIhKdK9lCajExekzcmxPZVQYCo1nsSc',
-    //   horoscopeDate: '05-21',
-    //   city: '长春',
-    // },
+    {
+      name: '爸爸',
+      id: 'oelhR5wwTJlxbk3H0T2empw5ie2Y',
+      useTemplateId: 'yasFbW5ZV9-EGIhKdK9lCajExekzcmxPZVQYCo1nsSc',
+      horoscopeDate: '05-21',
+      city: '长春',
+    },
 
     {
       name: '哥哥test',
