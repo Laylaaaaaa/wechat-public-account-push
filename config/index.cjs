@@ -7,7 +7,7 @@ const USER_CONFIG = {
     {
       name: '哥哥',
       id: 'oelhR5-vJRhT6_3v2zuJkZYzHN8U',
-      useTemplateId: 'W9mERC4cen0jhE4FwbIh_Dzo-KL1E_-WKhwWn1dw7b8',
+      useTemplateId: 'RBxV5YrLNV_skExqXN74E-QCjrSWxZABOv71bwEcbC4',
       horoscopeDate: '05-13',
       city: '沈阳',
       festivals: [
@@ -96,4 +96,3 @@ const USER_CONFIG = {
 }
 
 module.exports = USER_CONFIG
-
