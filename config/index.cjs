@@ -50,7 +50,7 @@ const USER_CONFIG = {
     {
       name: '哥哥test',
       id: 'oelhR5x5lAmEEnKHl_qqe83nzAFs',
-      useTemplateId: 'W9mERC4cen0jhE4FwbIh_Dzo-KL1E_-WKhwWn1dw7b8',
+      useTemplateId: 'RBxV5YrLNV_skExqXN74E-QCjrSWxZABOv71bwEcbC4',
       horoscopeDate: '05-13',
       city: '沈阳',
       festivals: [
