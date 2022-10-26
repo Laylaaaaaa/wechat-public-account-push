@@ -7,7 +7,7 @@ const USER_CONFIG = {
     {
       name: '哥哥',
       id: 'oelhR5-vJRhT6_3v2zuJkZYzHN8U',
-      useTemplateId: 'RBxV5YrLNV_skExqXN74E-QCjrSWxZABOv71bwEcbC4',
+      useTemplateId: 'MIir-BSTv2X5Voq7whSWkHq5njp_QVZkacUrF9YfveY',
       horoscopeDate: '05-13',
       city: '沈阳',
       festivals: [
@@ -26,7 +26,7 @@ const USER_CONFIG = {
     {
       name: '妈妈',
       id: 'oelhR5y1jYWqJPfwNorUgBPzU-Wg',
-      useTemplateId: '75BaCz8MGol2WS4qAIEM__9r_xkdx6hXVPfPk37sVPw',
+      useTemplateId: 'blBLAyhWf0ubuQY63qwGSt5sn4FQ7FcSyuqCok0NJZs',
       horoscopeDate: '05-27',
       city: '长春',
     },
@@ -34,7 +34,7 @@ const USER_CONFIG = {
     {
       name: '妈妈',
       id: 'oelhR584oVzGzjb1WbUPdZsSHQ-4',
-      useTemplateId: '75BaCz8MGol2WS4qAIEM__9r_xkdx6hXVPfPk37sVPw',
+      useTemplateId: 'blBLAyhWf0ubuQY63qwGSt5sn4FQ7FcSyuqCok0NJZs',
       horoscopeDate: '05-27',
       city: '长春',
     },
@@ -42,7 +42,7 @@ const USER_CONFIG = {
     {
       name: '爸爸',
       id: 'oelhR5wwTJlxbk3H0T2empw5ie2Y',
-      useTemplateId: 'yasFbW5ZV9-EGIhKdK9lCajExekzcmxPZVQYCo1nsSc',
+      useTemplateId: '--Kwr4adqfrQuX1VjeGWyKWJrmyxyKEnptb_qgRfhBo',
       horoscopeDate: '05-21',
       city: '长春',
     },
@@ -50,7 +50,7 @@ const USER_CONFIG = {
     {
       name: '哥哥test',
       id: 'oelhR5x5lAmEEnKHl_qqe83nzAFs',
-      useTemplateId: 'RBxV5YrLNV_skExqXN74E-QCjrSWxZABOv71bwEcbC4',
+      useTemplateId: 'MIir-BSTv2X5Voq7whSWkHq5njp_QVZkacUrF9YfveY',
       horoscopeDate: '05-13',
       city: '沈阳',
       festivals: [
@@ -69,7 +69,7 @@ const USER_CONFIG = {
     {
       name: '妈妈test',
       id: 'oelhR5x5lAmEEnKHl_qqe83nzAFs',
-      useTemplateId: '75BaCz8MGol2WS4qAIEM__9r_xkdx6hXVPfPk37sVPw',
+      useTemplateId: 'blBLAyhWf0ubuQY63qwGSt5sn4FQ7FcSyuqCok0NJZs',
       horoscopeDate: '05-27',
       city: '长春',
     },
@@ -77,7 +77,7 @@ const USER_CONFIG = {
     {
       name: '爸爸test',
       id: 'oelhR5x5lAmEEnKHl_qqe83nzAFs',
-      useTemplateId: 'yasFbW5ZV9-EGIhKdK9lCajExekzcmxPZVQYCo1nsSc',
+      useTemplateId: '--Kwr4adqfrQuX1VjeGWyKWJrmyxyKEnptb_qgRfhBo',
       horoscopeDate: '05-21',
       city: '长春',
     },
